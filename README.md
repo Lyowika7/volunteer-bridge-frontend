@@ -8,31 +8,11 @@ Volunteer Bridge provides a seamless platform for managing tasks, tracking proje
 
 ## 🔗 Live Demo
 
-- Frontend: https://your-vercel-link.vercel.app
+- Frontend: https://volunteer-bridge-alpha.vercel.app
 - Backend API: https://volunteer-bridge-3.onrender.com
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### Projects Page
-![Projects](./screenshots/projects.png)
-
-### Task Management
-![Tasks](./screenshots/tasks.png)
-
-### Notifications
-![Notifications](./screenshots/notifications.png)
-
-### Donations
-![Donations](./screenshots/donations.png)
-
-> 📌 *Tip: Create a `screenshots/` folder and drop images inside.*
-
----
 
 ## ✨ Features
 
